@@ -4,7 +4,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Screenshot
 
-![](./screenshot.jpg)
+(https://github.com/CodeAtr/FAQ-accordion/assets/84669551/3a6aba8f-79d7-4df8-84dd-8df1e7fad52c)
+
 
 ### Links
 
