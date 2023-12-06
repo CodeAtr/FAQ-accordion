@@ -21,4 +21,4 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ## Author
 
-- Frontend Mentor - (https://www.frontendmentor.io/profile/atrcode)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/CodeAtr)
